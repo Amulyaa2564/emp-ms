@@ -4,3 +4,10 @@ body{
   background-color: #111;
   color: white;
 }
+.scrollbar::-webkit-scrollbar{
+  display: none;
+}
+.scrollbar{
+  -ms-overflow-style: none;  
+  scrollbar-width: none;
+}
