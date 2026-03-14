@@ -1,4 +1,4 @@
-import Header from "../other/header"
+import Header from "../other/Header"
 import TaskStatus from "../other/TaskStatus"
 import TaskList from "../other/TaskList"
 const EmployeeDashboard=()=>{
