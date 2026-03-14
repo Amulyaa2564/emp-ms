@@ -40,42 +40,42 @@ const CreateTask = () => {
       </div>
       <div className="mt-3 overflow-y-auto flex-1 p-2 scrollbar">
             <div className="flex justify-between p-2 rounded bg-red-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-green-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-yellow-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-pink-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-red-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-green-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-yellow-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
             <div className="flex justify-between p-2 rounded bg-pink-400 mb-2">
-                <h3>Sarthak</h3>
+                <h3>Ammu</h3>
                 <h3>Make a UI Design</h3>
                 <h3>Status</h3>
             </div>
